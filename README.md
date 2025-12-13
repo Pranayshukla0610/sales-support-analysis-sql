@@ -94,4 +94,5 @@ Stored Procedures & UDFs
 
 Cursor-based processing
 
+
 Business-oriented data analysis
